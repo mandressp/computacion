@@ -1,0 +1,4 @@
+ID_Tipo_Cliente	Tipo_Cliente
+10	NUEVO
+20	FRECUENTE
+30	ASOCIADO
